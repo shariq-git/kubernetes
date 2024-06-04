@@ -58,3 +58,4 @@ echo
 echo  '\033[5mkubeadm token create --print-join-command\033[0m'
 echo
 echo
+echo
